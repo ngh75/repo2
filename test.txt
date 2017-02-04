@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 9A39-E0C6
+
+ R‚pertoire de C:\Users\Lenovo92\Desktop\Tools\Git\MonProjet
+
+04/02/2017  12:14    <REP>          .
+04/02/2017  12:14    <REP>          ..
+04/02/2017  12:14                 0 test.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  15ÿ460ÿ720ÿ640 octets libres
